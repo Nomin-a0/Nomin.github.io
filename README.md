@@ -1,6 +1,4 @@
-# Nomin Natsag
-
-### Structural Engineer
+## Structural Engineer
 
 #### Technical Skills: AutoCAD, Revit, SAP2000, Adobe Illustrator, Premiere, Photoshop
 

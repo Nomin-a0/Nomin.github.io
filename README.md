@@ -7,4 +7,4 @@ BEng in Civil Engineering
 
 ### Professional Experience
 
-**Structural Designer @Author, Ulaanbaatar, Mongolia
+** Structural Designer @Author, Ulaanbaatar, Mongolia

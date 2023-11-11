@@ -9,3 +9,4 @@ Mongolian University of Science and Technology
 ### Professional Experience
 
 - Structural Designer @Author, Ulaanbaatar, Mongolia
+`RGB(0%,100%,0%)`

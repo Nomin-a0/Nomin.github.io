@@ -30,13 +30,13 @@ Mongolian University of Science and Technology
 
 
 
-# [Your Name]'s Portfolio
+# Nomin's Portfolio
 
-![Portfolio Preview](url_to_portfolio_screenshot.png)
+![Portfolio Preview](https://media.licdn.com/dms/image/D5603AQHVOGLioqv6ZA/profile-displayphoto-shrink_800_800/0/1686443818944?e=1704931200&v=beta&t=xmp7G2dCJ0ojBimWP81XI0LzZ2qgcAWbUi17gR1jv9U)
 
 ## Overview
 
-Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, skills, and achievements. Feel free to explore the different sections to learn more about my work.
+ Welcome to the portfolio. You can check out the personal and professional projects. 
 
 ## Table of Contents
 
@@ -48,41 +48,52 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my proje
 
 ## About Me
 
-Briefly introduce yourself. Include information about your background, education, and what drives you as a developer. Feel free to add any other relevant personal details that might be interesting to your audience.
+Nomin works to build sustainable and resilient future for all.
 
 ## Projects
 
-### Project 1: [Project Name 1](project1_link)
+### Construction: [Construction](project1_link)
 
 [Project Name 1](project1_link) is a [brief description]. It highlights my skills in [relevant skills], and you can check out the live demo [here](project1_live_demo_link).
 
 ![Project 1 Screenshot](project1_screenshot.png)
 
-### Project 2: [Project Name 2](project2_link)
+### Structural design: [Structural Design](project1_link)
+
+[Project Name 1](project1_link) is a [brief description]. It highlights my skills in [relevant skills], and you can check out the live demo [here](project1_live_demo_link).
+
+![Project 1 Screenshot](project1_screenshot.png)
+
+### Renovation and Interior design: [Renovation](project1_link)
+
+[Project Name 1](project1_link) is a [brief description]. It highlights my skills in [relevant skills], and you can check out the live demo [here](project1_live_demo_link).
+
+![Project 1 Screenshot](project1_screenshot.png)
+
+### Videography: [Videomaking](https://www.youtube.com/watch?v=H7goEbjbmtY/)
 
 [Project Name 2](project2_link) showcases my expertise in [related skills]. The live demo is available [here](project2_live_demo_link).
 
 ![Project 2 Screenshot](project2_screenshot.png)
 
-Add more projects as necessary, providing a brief description, links to the project repository, live demo, and a screenshot.
+### Translation: [] (project link)
+
+[Project Name 3](project2_link) showcases my expertise in [related skills]. The live demo is available [here](project2_live_demo_link).
+
+![Project 3 Screenshot](project2_screenshot.png)
 
 ## Skills
 
-List your technical skills and tools that you are proficient in. This might include programming languages, frameworks, tools, and any other relevant skills.
-
-- Programming Languages: [List languages]
-- Web Technologies: [List technologies]
-- Databases: [List databases]
-- Version Control: [List tools]
+- Programming Languages: [Python, Java, C#]
+- BIM/Computational Modeling: [Autodesk Revit, AutoCAD]
+- Structural Analysis Tools: [SAP 2000, Matlab]
+- Languages: [Mongolian, English, Japanese, German]
 
 ## Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Personal Website:** [Your Personal Website](https://www.yourwebsite.com)
+- **Email:** [nomin.ntsg@gmail.com](mailto:nomin.ntsg@gmail.com)
+- **LinkedIn:** [Nomin Natsag](https://www.linkedin.com/in/nomin-natsag/)
+- **Instagram:** [@azoneo](https://www.instagram.com/azoneo/)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
-## License
-
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.

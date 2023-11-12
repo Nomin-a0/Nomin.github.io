@@ -32,7 +32,7 @@ Mongolian University of Science and Technology
 
 # Nomin's Portfolio
 
-![Portfolio Preview](https://media.licdn.com/dms/image/D5603AQHVOGLioqv6ZA/profile-displayphoto-shrink_800_800/0/1686443818944?e=1704931200&v=beta&t=xmp7G2dCJ0ojBimWP81XI0LzZ2qgcAWbUi17gR1jv9U)
+![Portfolio Preview]()
 
 ## Overview
 
